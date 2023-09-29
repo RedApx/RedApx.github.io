@@ -1,2 +1,3 @@
 # Greetings!
-Redapx personal webpage for info display.
+
+Redapx personal webpage repo (WIP).
