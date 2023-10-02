@@ -1,3 +1,1 @@
-# Greetings!
-
-Redapx personal webpage repo (WIP).
+RedApx personal webpage repo for CV display.
